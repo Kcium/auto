@@ -1,7 +1,16 @@
 var proxy = 'SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;';
 var rules = [
     [
-        [],
+        [
+            "alibaba-inc.com",
+            "aliyundrive.com",
+            "baidu.com",
+            "quark.cn",
+            "xhscdn.com",
+            "xiaohongshu.com",
+            "ximalaya.com",
+            "xmcdn.com"
+        ],
         []
     ],
     [

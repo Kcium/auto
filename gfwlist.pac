@@ -10,7 +10,8 @@ var rules = [
             "xhscdn.com",
             "xiaohongshu.com",
             "ximalaya.com",
-            "xmcdn.com"
+            "xmcdn.com",
+            "yuque.com"
         ]
     ],
     [

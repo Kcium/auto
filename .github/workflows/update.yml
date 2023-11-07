@@ -2,7 +2,7 @@ name: Auto update
 
 on:
   schedule:
-    - cron: '37 19 * * *'
+    - cron: '15 20 * * *'
   workflow_dispatch:
   push:
     paths:

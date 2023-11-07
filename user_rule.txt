@@ -1,3 +1,5 @@
+!语雀
+||yuque.com
 !喜马拉雅
 ||s1.xmcdn.com
 ||imagev2.xmcdn.com

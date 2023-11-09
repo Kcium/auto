@@ -48,7 +48,7 @@ jobs:
           sed '1,7d' -i gfwlist.pac
 
           git add .
-          git commit -m "[$(LANG=C date)] auto update" || exit 0
+          git commit -m "[$(LANG=C date)] update by $GITHUB_EVENT_NAME" || exit 0
 
           [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
 

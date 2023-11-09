@@ -6,6 +6,7 @@ var rules = [
             "alibaba-inc.com",
             "aliyundrive.com",
             "baidu.com",
+            "gamersky.com",
             "quark.cn",
             "xhscdn.com",
             "xiaohongshu.com",

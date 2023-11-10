@@ -51,6 +51,7 @@ jobs:
           data2=$(cat gfwlist/gfwlist.txt)
           decoded=$(echo "$data2" | base64 -d)
           combined="$data1$decoded"
+          echo "$combined" > gfwlistdecode.txt
           encoded=$(echo "$combined" | base64)
           echo "$encoded" > gfwlist.txt
 

@@ -47,8 +47,12 @@ jobs:
           genpac --pac-proxy "SOCKS5 127.0.0.1:7890; SOCKS 127.0.0.1:7890; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt --user-rule-from=user_rule.txt -o gfwlist.pac
           sed '1,7d' -i gfwlist.pac
 
-          cat user_rule.txt > gfwlist.txt
-          cat gfwlist/gfwlist.txt >> gfwlist.txt
+          data1=$(cat user_rule.txt)
+          data2=$(cat gfwlist/gfwlist.txt)
+          decoded=$(echo -n "$data2" | base64 -d)
+          combined="$data1$decoded"
+          encoded=$(echo -n "$combined" | base64)
+          echo "$encoded" > gfwlist.txt
 
           git add .
           git commit -m "[$(LANG=C date)] update by $GITHUB_EVENT_NAME" || exit 0

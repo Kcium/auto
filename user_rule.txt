@@ -1,6 +1,8 @@
 !自定义
 ||gamersky.com
 ||ali213.net
+!抖音
+||v.douyin.com
 !语雀
 ||yuque.com
 !喜马拉雅

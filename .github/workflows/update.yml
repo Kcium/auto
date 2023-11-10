@@ -49,9 +49,9 @@ jobs:
 
           data1=$(cat user_rule.txt)
           data2=$(cat gfwlist/gfwlist.txt)
-          decoded=$(echo -n "$data2" | base64 -d)
+          decoded=$(echo "$data2" | base64 -d)
           combined="$data1$decoded"
-          encoded=$(echo -n "$combined" | base64)
+          encoded=$(echo "$combined" | base64)
           echo "$encoded" > gfwlist.txt
 
           git add .

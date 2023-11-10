@@ -2,7 +2,8 @@
 ||gamersky.com
 ||ali213.net
 !抖音
-|v.douyin.com
+|http://v.douyin.com
+|https://v.douyin.com
 !语雀
 ||yuque.com
 !喜马拉雅

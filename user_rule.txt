@@ -1,6 +1,8 @@
 !自定义
 ||gamersky.com
 ||ali213.net
+||fastlink.ws
+||fastlink.la
 !抖音
 *.douyin.com
 !语雀

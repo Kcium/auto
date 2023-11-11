@@ -8,6 +8,8 @@ var rules = [
             "aliyundrive.com",
             "baidu.com",
             "douyin.com",
+            "fastlink.la",
+            "fastlink.ws",
             "gamersky.com",
             "quark.cn",
             "xhscdn.com",

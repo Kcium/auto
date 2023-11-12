@@ -4,7 +4,8 @@
 ||fastlink.ws
 ||fastlink.la
 !抖音
-*.douyin.com
+!*.douyin.com
+||douyin.com
 !语雀
 ||yuque.com
 !喜马拉雅

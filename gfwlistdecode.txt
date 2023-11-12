@@ -20,7 +20,9 @@
 ||quark.cn
 !小红书
 ||xiaohongshu.com
-||xhscdn.com[AutoProxy 0.2.9]
+||xhscdn.com
+
+!userRule END[AutoProxy 0.2.9]
 ! Checksum: 3G9Dd6DUURMFhqmYuuC91Q
 ! Expires: 6h
 ! Title: GFWList4LL

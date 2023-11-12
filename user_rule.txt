@@ -21,3 +21,5 @@
 !小红书
 ||xiaohongshu.com
 ||xhscdn.com
+
+!userRule END

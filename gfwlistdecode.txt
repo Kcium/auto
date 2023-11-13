@@ -6,6 +6,7 @@
 !抖音
 !*.douyin.com
 ||douyin.com
+||iesdouyin.com
 !语雀
 ||yuque.com
 !喜马拉雅

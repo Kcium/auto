@@ -5,6 +5,7 @@
 ||fastlink.la
 !微软
 ||microsoft.com
+||bing.com
 !抖音
 !*.douyin.com
 ||douyin.com

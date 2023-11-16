@@ -12,6 +12,7 @@ var rules = [
             "fastlink.ws",
             "gamersky.com",
             "iesdouyin.com",
+            "microsoft.com",
             "quark.cn",
             "xhscdn.com",
             "xiaohongshu.com",

@@ -3,6 +3,8 @@
 ||ali213.net
 ||fastlink.ws
 ||fastlink.la
+!微软
+||microsoft.com
 !抖音
 !*.douyin.com
 ||douyin.com

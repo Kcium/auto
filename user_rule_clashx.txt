@@ -1,3 +1,10 @@
+-
+  name: '❤️ FAVORITE'
+  type: select
+  proxies:
+    - DIRECT
+    - '🔰 节点选择'
+
   # > FAVORITE
   # others
   - DOMAIN-SUFFIX,gamersky.com,❤️ FAVORITE

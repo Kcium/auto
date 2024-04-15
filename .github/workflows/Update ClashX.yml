@@ -31,8 +31,8 @@ jobs:
 
       - name: Merge files
         run: |
-          sed -i '/# > 网易云音乐解锁/i\$(cat tmp1.txt)' data2.txt
-          sed -i '/proxy-groups:/a\$(cat tmp2.txt)' data2.txt
+          sed -i "/# > 网易云音乐解锁/i\$(cat tmp1.txt)" data2.txt
+          sed -i "/proxy-groups:/a\$(cat tmp2.txt)" data2.txt
 
       # - name: Read local file
       #   id: read-local-file
@@ -49,7 +49,6 @@ jobs:
         run: |
           set -x
           mv data2.txt clashx.yaml
-          git add .
+          git add clashx.yaml
           git commit -m "Update ClashX configuration" || exit 0
           git push origin master
-

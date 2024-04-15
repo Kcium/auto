@@ -18,7 +18,7 @@ jobs:
 
       - name: Download remote file
         run: |
-          curl -o data2.txt http://flapiv2.fldylink.com/zvlqjih1t/m4kavp45bdugfskp?clash=1&extend=1
+          curl -o data2.txt -L http://flapiv2.fldylink.com/zvlqjih1t/m4kavp45bdugfskp?clash=1&extend=1
 
       - uses: petronny/git-config-user@master
         with:
@@ -28,11 +28,21 @@ jobs:
         id: read-local-file
         run: |
           data1=$(cat user_rule_clashx.txt)
-          echo "$data1" > data1.txt
 
       - name: Insert data1 into data2
         run: |
           sed -i '/# > 网易云音乐解锁/ i\'"$data1" data2.txt
+
+      - name: Insert groups into data2
+        run: |
+          data3='-
+              name: '❤️ FAVORITE'
+              type: select
+              proxies:
+                - DIRECT
+                - ' 节点选择'
+            '
+          sed -i '/proxy-groups:/ i\'"$data3" data2.txt
 
       - name: Save modified data2
         run: |

@@ -1,0 +1,38 @@
+name: Update ClashX
+
+on:
+  schedule:
+    - cron: "15 22 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - user_rule_clashx.txt
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Download remote file
+        run: |
+          curl -o data2.txt http://flapiv2.fldylink.com/zvlqjih1t/m4kavp45bdugfskp?clash=1&extend=1
+
+      - name: Read local file
+        id: read-local-file
+        run: |
+          data1=$(cat user_rule_clashx.txt)
+          echo "$data1" > data1.txt
+
+      - name: Insert data1 into data2
+        run: |
+          sed -i '/# > 网易云音乐解锁/ i\'"$data1" data2.txt
+
+      - name: Save modified data2
+        run: |
+          mv data2.txt clashx.yaml
+          git add .
+          git commit -m "Update ClashX configuration"
+          git push origin HEAD

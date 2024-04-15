@@ -24,16 +24,26 @@ jobs:
         with:
           path: .
 
-      - name: Read local file
-        id: read-local-file
+      - name: Process user_rule_clashx.txt
         run: |
-          data1=$(sed -n '1,6p' user_rule_clashx.txt)
-          data3=$(sed -n '7,$p' user_rule_clashx.txt)
+          head -6 user_rule_clashx.txt > tmp1.txt
+          tail -n +7 user_rule_clashx.txt > tmp2.txt
 
-      - name: Insert data1 into data2
+      - name: Merge files
         run: |
-          sed -i '/# > 网易云音乐解锁/ i\'"$data1" data2.txt
-          sed -i '/proxy-groups:/ i\'"$data3" data2.txt
+          sed -i '/# > 网易云音乐解锁/i\$(cat tmp1.txt)' data2.txt
+          sed -i '/proxy-groups:/a\$(cat tmp2.txt)' data2.txt
+
+      # - name: Read local file
+      #   id: read-local-file
+      #   run: |
+      #     data1=$(sed -n '1,6p' user_rule_clashx.txt)
+      #     data3=$(sed -n '7,$p' user_rule_clashx.txt)
+
+      # - name: Insert data1 into data2
+      #   run: |
+      #     sed -i '/# > 网易云音乐解锁/ i\'"$data1" data2.txt
+      #     sed -i '/proxy-groups:/ i\'"$data3" data2.txt
 
       - name: Save modified data2
         run: |
@@ -42,3 +52,4 @@ jobs:
           git add .
           git commit -m "Update ClashX configuration" || exit 0
           git push origin master
+

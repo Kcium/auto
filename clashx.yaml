@@ -184,7 +184,6 @@ proxies:
   - {"name":"网易云音乐|解锁节点2 - macOS, iOS, Linux","type":"ss","server":"music.desperadoj.com","port":30003,"cipher":"aes-128-gcm","password":"desperadoj.com_free_proxy_etg0"}
 
 proxy-groups:
-$(cat tmp2.txt)
 -
   name: '🔰 节点选择'
   type: select
@@ -8265,7 +8264,6 @@ rules:
   - DOMAIN-SUFFIX,tw,🔰 节点选择
   - DOMAIN-SUFFIX,uk,🔰 节点选择
   - DOMAIN-SUFFIX,us,🔰 节点选择
-$(cat tmp1.txt)
   # > 网易云音乐解锁
   - DOMAIN,api.iplay.163.com,🎵 网易云音乐
   - DOMAIN,apm3.music.163.com,🎵 网易云音乐

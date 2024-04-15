@@ -1,6 +1,0 @@
--
-  name: '❤️ FAVORITE'
-  type: select
-  proxies:
-    - DIRECT
-    - '🔰 节点选择'

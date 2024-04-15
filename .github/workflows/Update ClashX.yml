@@ -16,6 +16,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - uses: petronny/git-config-user@master
+        with:
+          path: .
+
       - name: Download remote file
         run: |
           curl -o data2.txt http://flapiv2.fldylink.com/zvlqjih1t/m4kavp45bdugfskp?clash=1&extend=1
@@ -29,10 +33,6 @@ jobs:
       - name: Insert data1 into data2
         run: |
           sed -i '/# > 网易云音乐解锁/ i\'"$data1" data2.txt
-
-      - uses: petronny/git-config-user@master
-        with:
-          path: .
 
       - name: Save modified data2
         run: |

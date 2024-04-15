@@ -31,8 +31,9 @@ jobs:
 
       - name: Merge files
         run: |
-          sed -i "/# > 网易云音乐解锁/i\$(cat tmp1.txt)" data2.txt
-          sed -i "/proxy-groups:/a\$(cat tmp2.txt)" data2.txt
+          set -x
+          sed -i "/# > 网易云音乐解锁/i\ $(cat tmp1.txt)" data2.txt
+          sed -i "/proxy-groups:/a\ $(cat tmp2.txt)" data2.txt
 
       # - name: Read local file
       #   id: read-local-file

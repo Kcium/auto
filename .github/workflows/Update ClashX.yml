@@ -14,15 +14,15 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-
-      - uses: petronny/git-config-user@master
-        with:
-          path: .
+        uses: actions/checkout@v3
 
       - name: Download remote file
         run: |
           curl -o data2.txt http://flapiv2.fldylink.com/zvlqjih1t/m4kavp45bdugfskp?clash=1&extend=1
+
+      - uses: petronny/git-config-user@master
+        with:
+          path: .
 
       - name: Read local file
         id: read-local-file
@@ -36,7 +36,8 @@ jobs:
 
       - name: Save modified data2
         run: |
+          set -x
           mv data2.txt clashx.yaml
           git add .
-          git commit -m "Update ClashX configuration"
-          git push origin HEAD
+          git commit -m "Update ClashX configuration" || exit 0
+          git push origin master

@@ -1,30 +1,28 @@
-payload:
-  - '+.gamersky.com'
-  - '+.ali213.net'
-  - '+.fastlink.ws'
-  - '+.fastlink.la'
-  - '印象笔记'
-  - '+.yinxiang.com'
-  - '!微软'
-  - '+.microsoft.com'
-  - '+.bing.com'
-  - '!抖音'
-  - '!*.douyin.com'
-  - '+.douyin.com'
-  - '+.iesdouyin.com'
-  - '!语雀'
-  - '+.yuque.com'
-  - '!喜马拉雅'
-  - '+.s1.xmcdn.com'
-  - '+.imagev2.xmcdn.com'
-  - '+.m.ximalaya.com'
-  - '!百度云盘'
-  - '+.pan.baidu.com'
-  - '!阿里云盘'
-  - '+.alibaba-inc.com'
-  - '+.aliyundrive.com'
-  - '!夸克云盘'
-  - '+.quark.cn'
-  - '!小红书'
-  - '+.xiaohongshu.com'
-  - '+.xhscdn.com'
+  # > FAVORITE
+  # others
+  - DOMAIN-SUFFIX,gamersky.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,ali213.net,❤️ FAVORITE
+  # - 印象笔记
+  - DOMAIN-SUFFIX,yinxiang.com,❤️ FAVORITE
+  # - 微软
+  - DOMAIN-SUFFIX,microsoft.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,bing.com,❤️ FAVORITE
+  # - 抖音
+  - DOMAIN-SUFFIX,douyin.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,iesdouyin.com,❤️ FAVORITE
+  # - 语雀
+  - DOMAIN-SUFFIX,yuque.com,❤️ FAVORITE
+  # - 喜马拉雅
+  - DOMAIN-SUFFIX,s1.xmcdn.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,imagev2.xmcdn.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,m.ximalaya.com,❤️ FAVORITE
+  # - 百度云盘
+  - DOMAIN-SUFFIX,pan.baidu.com,❤️ FAVORITE
+  # - 阿里云盘
+  - DOMAIN-SUFFIX,alibaba-inc.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,aliyundrive.com,❤️ FAVORITE
+  # - 夸克云盘
+  - DOMAIN-SUFFIX,quark.cn,❤️ FAVORITE
+  # - 小红书
+  - DOMAIN-SUFFIX,xiaohongshu.com,❤️ FAVORITE
+  - DOMAIN-SUFFIX,xhscdn.com,❤️ FAVORITE

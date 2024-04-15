@@ -27,21 +27,12 @@ jobs:
       - name: Read local file
         id: read-local-file
         run: |
-          data1=$(cat user_rule_clashx.txt)
+          data1=$(sed -n '1,6p' user_rule_clashx.txt)
+          data3=$(sed -n '7,$p' user_rule_clashx.txt)
 
       - name: Insert data1 into data2
         run: |
           sed -i '/# > 网易云音乐解锁/ i\'"$data1" data2.txt
-
-      - name: Insert groups into data2
-        run: |
-          data3='-
-              name: '❤️ FAVORITE'
-              type: select
-              proxies:
-                - DIRECT
-                - ' 节点选择'
-            '
           sed -i '/proxy-groups:/ i\'"$data3" data2.txt
 
       - name: Save modified data2

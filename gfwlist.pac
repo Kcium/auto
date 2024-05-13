@@ -918,6 +918,7 @@ var rules = [
             "channelnewsasia.com",
             "chaoex.com",
             "chapm25.com",
+            "chatgpt.com",
             "chatnook.com",
             "chaturbate.com",
             "checkgfw.com",

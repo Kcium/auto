@@ -5801,6 +5801,7 @@ var rules = [
             "x-berry.com",
             "x-wall.org",
             "x.co",
+            "x.com",
             "x.company",
             "x1949x.com",
             "x24hr.com",

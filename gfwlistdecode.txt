@@ -30,11 +30,11 @@
 ||xhscdn.com
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: jYUuq1LbGZszOzTEKRfKiA
+! Checksum: 5eWY5ApCBo3ergQEJ/WCwg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 06 Jun 2024 23:48:34 -0400
+! Last Modified: Sat, 20 Jul 2024 13:42:41 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -56,6 +56,7 @@
 ||altrec.com
 ||angela-merkel.de
 ||angola.org
+||anthropic.com
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
@@ -77,6 +78,7 @@
 ||centauro.com.br
 ||chobit.cc
 ||ciciai.com
+||claude.ai
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
@@ -497,6 +499,7 @@ share.dmhy.org
 ||bithumb.com
 ||bitinka.com.ar
 ||bitmex.com
+||bnbstatic.com
 ||btc98.com
 ||btcbank.bank
 ||btctrade.im
@@ -6102,6 +6105,7 @@ penisbot.com
 .percy.in
 .perfectgirls.net
 ||perfect-privacy.com
+||perplexity.ai
 .persecutionblog.com
 .persiankitty.com
 phapluan.org

@@ -3976,6 +3976,7 @@ var rules = [
             "partypoker.com",
             "passion.com",
             "passiontimes.hk",
+            "passwords.google",
             "paste.ee",
             "pastebin.com",
             "pastie.org",

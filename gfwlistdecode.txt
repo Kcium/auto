@@ -28,6 +28,8 @@
 !小红书
 ||xiaohongshu.com
 ||xhscdn.com
+!石墨
+||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
 ! Checksum: j9+lCGr2eTNyrwZCFg8ZzQ

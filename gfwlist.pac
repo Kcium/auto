@@ -15,6 +15,7 @@ var rules = [
             "iesdouyin.com",
             "microsoft.com",
             "quark.cn",
+            "shimo.im",
             "xhscdn.com",
             "xiaohongshu.com",
             "ximalaya.com",

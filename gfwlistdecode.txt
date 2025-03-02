@@ -32,11 +32,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: 8eF7ev5C1CD7WR48GBsGVA
+! Checksum: V13cLK+7WfT1GhgMhqoqOA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 27 Feb 2025 22:29:48 -0500
+! Last Modified: Sun, 02 Mar 2025 22:55:13 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -430,6 +430,7 @@ share.dmhy.org
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||pixiv.org
 ||pixivsketch.net
 ||potato.im
 ||premproxy.com
@@ -970,7 +971,7 @@ blogspot.com
 ||design.google
 ||digisfera.com
 ||dns.google
-||hub.docker.com
+||docker.com
 ||docs.new
 ||domains.google
 ||duck.com
@@ -1505,7 +1506,7 @@ tw.answers.yahoo.com
 |https://tw.answers.yahoo.com
 ||tw.knowledge.yahoo.com
 ||tw.mall.yahoo.com
-tw.yahoo.com
+||tw.yahoo.com
 ||tw.mobi.yahoo.com
 tw.myblog.yahoo.com
 ||tw.news.yahoo.com
@@ -1664,6 +1665,8 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||acg.rip
+||annas-archive.se
 .tibet.a.se
 |http://tibet.a.se
 ||a-normal-day.com
@@ -1976,6 +1979,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||bangumi.moe
 ||b-ok.cc
 forum.baby-kingdom.com
 ||babylonbee.com
@@ -2155,6 +2159,7 @@ blogtd.net
 .blogtd.org
 |http://blogtd.org
 ||bloodshed.net
+||bootstrapcdn.com
 !--403
 ||assets.bwbx.io
 
@@ -2291,6 +2296,7 @@ bwsj.hk
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||ci-en.jp
 ||c-span.org
 .c-spanvideo.org
 ||c-spanvideo.org
@@ -2913,6 +2919,7 @@ dongtaiwang.com
 |http://danbooru.donmai.us
 .dontfilter.us
 ||dontmovetochina.com
+||doosho.com
 ||doourbest.org
 .dorjeshugden.com
 .dotplane.com
@@ -3172,6 +3179,9 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||fanbox.cc
+||free.bg
+||f-droid.org
 ||facebookquotes4u.com
 .faceless.me
 ||faceless.me
@@ -4010,6 +4020,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hoy.tv
 .h528.com
 .h5dm.com
 .h5galgame.me
@@ -4666,6 +4677,7 @@ juziyue.com
 .jyxf.net
 
 !--------------------KK-------------------------
+||kpkuang.org
 ||k-doujin.net
 ||ka-wai.com
 ||kadokawa.co.jp
@@ -4967,6 +4979,7 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mangabz.com
 http://*.m-team.cc
 !--m-team.cc/forum
 .macrovpn.com
@@ -5071,6 +5084,7 @@ megavideo.com
 meshrep.com
 .mesotw.com/bbs
 metacafe.com/watch
+||wiki.metacubex.one
 ||metafilter.com
 ||meteorshowersonline.com
 ||metro.taipei
@@ -5278,6 +5292,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||newthuhole.com
 ||naacoalition.org
 old.nabble.com
 ||naitik.net
@@ -5622,6 +5637,11 @@ bbs.ozchinese.com
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||pendrivelinux.com
+||paimon.moe
+||photonmedia.net
+||points-media.com
+||pkuanvil.com
 ||pachosting.com
 .pacificpoker.com
 .packetix.net
@@ -6148,6 +6168,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||syosetu.com
 .s1s1s1.com
 ||s-cute.com
 .s-dragon.org
@@ -6645,6 +6666,9 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||thechasernews.co.uk
+||hole.thu.monster
+||thuhole.com
 ||t-g.com
 .t35.com
 .t66y.com
@@ -7087,6 +7111,7 @@ tuitwit.com
 |http://*.tuzaijidi.com
 .tw01.org
 |http://tw01.org
+||use.typekit.net
 
 !---Tumblr---
 .tumblr.com
@@ -7662,6 +7687,7 @@ whylover.com
 ||wikileaks.pl
 .wikileaks-forum.com
 wildammo.com
+||wilsoncenter.org
 .williamhill.com
 ||collateralmurder.com
 ||collateralmurder.org

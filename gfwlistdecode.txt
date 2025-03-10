@@ -32,11 +32,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: tIbXiFA1Be1qMlhiI6zeJg
+! Checksum: DzjvuRPrnUE9IAbb33HhWQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 08 Mar 2025 11:02:43 +0800
+! Last Modified: Mon, 10 Mar 2025 21:59:17 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -246,7 +246,7 @@
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
-||openai.com
+||chat.openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -272,7 +272,7 @@
 ||sm-miracle.com
 ||softnology.biz
 ||soylentnews.org
-||spotify.com
+||open.spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org

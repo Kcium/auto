@@ -3,7 +3,10 @@
 ||ali213.net
 ||fastlink.ws
 ||fastlink.la
-印象笔记
+!小红书
+||xiaohongshu.com
+!*.xiaohongshu.com
+!印象笔记
 ||yinxiang.com
 !微软
 ||microsoft.com

@@ -35,11 +35,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: mR941+kNxCqOf9AYHPOZKQ
+! Checksum: 5RFEejCURn3Ddph5DXtVMg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 12 May 2025 10:04:00 +0000
+! Last Modified: Sat, 17 May 2025 13:05:21 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1297,6 +1297,7 @@ cn.nytstyle.com
 ||tiktokv.us
 ||tiktokcdn-us.com
 ||tiktokcdn.com
+||tiktokcdn-eu.com
 
 !!---Twitch---
 ||jtvnw.net
@@ -3341,7 +3342,7 @@ fangeming.com
 en.favotter.net
 !--||rnw.global.ssl.fastly.net
 .global.ssl.fastly.net
-.freetls.fastly.net
+||freetls.fastly.net
 nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
@@ -4902,6 +4903,8 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||ldplayer.tw
+||ldplayer.net
 ||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
@@ -5419,6 +5422,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||bbs.naixi.net
 ||nikke.hotcool.tw
 ||nikke-kr.com
 ||nikke-jp.com
@@ -6304,6 +6308,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||sagernet.org
 ||simplex.chat
 ||soundon.fm
 ||ssrtool.com

@@ -1182,6 +1182,7 @@ var rules = [
             "codeshare.io",
             "codeskulptor.org",
             "cofacts.tw",
+            "coffeemanga.to",
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",

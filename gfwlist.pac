@@ -3341,6 +3341,7 @@ var rules = [
             "line-scdn.net",
             "line.me",
             "linglingfa.com",
+            "lingualeo.com",
             "lingvodics.com",
             "link-o-rama.com",
             "linkedin.com",

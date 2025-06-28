@@ -3852,6 +3852,7 @@ var rules = [
             "picacomic.com",
             "picacomiccn.com",
             "picasaweb.com",
+            "picgo.net",
             "picidae.net",
             "picturedip.com",
             "picturesocial.com",

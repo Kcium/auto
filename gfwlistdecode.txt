@@ -35,11 +35,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: MunKZfUWwb9uWiwh3S8T/A
+! Checksum: 3PllzOfrdT9qjZOyoCb9Mg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 03 Jul 2025 13:23:19 +0000
+! Last Modified: Wed, 09 Jul 2025 03:20:57 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2818,6 +2818,7 @@ xys.dxiong.com
 .dzze.com
 
 !--------------------EE-------------------------
+||e621.net
 ||edx-cdn.org
 ||everipedia.org
 ||epochtimes.com.tw

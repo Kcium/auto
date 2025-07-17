@@ -21,6 +21,7 @@ var rules = [
             "ximalaya.com",
             "xmcdn.com",
             "yinxiang.com",
+            "ytysxs.com",
             "yuque.com"
         ]
     ],

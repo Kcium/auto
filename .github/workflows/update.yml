@@ -52,9 +52,10 @@ jobs:
           data2=$(cat gfwlist/gfwlist.txt)
           decoded=$(echo "$data2" | base64 -d)
           combined="$data1$decoded"
-          echo "$combined" > gfwlistdecode.txt
+          echo "$combined" > gfwlist_combined_decode.txt
           encoded=$(echo "$combined" | base64)
-          echo "$encoded" > gfwlist.txt
+          echo "$encoded" > gfwlist_combined.txt
+          echo "$decoded" > gfwlist_decode.txt
 
           git add .
           git commit -m "[$(LANG=C date)] update by $GITHUB_EVENT_NAME" || exit 0

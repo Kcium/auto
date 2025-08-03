@@ -5578,6 +5578,8 @@ var rules = [
             "wwitv.com",
             "www1.biz",
             "wwwhost.biz",
+            "wxw.cat",
+            "wxw.moe",
             "wzyboy.im",
             "x-art.com",
             "x-berry.com",

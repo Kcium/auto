@@ -4,9 +4,6 @@
 ||ali213.net
 ||fastlink.ws
 ||fastlink.la
-!小红书
-||xiaohongshu.com
-!*.xiaohongshu.com
 !印象笔记
 ||yinxiang.com
 !微软
@@ -18,16 +15,6 @@
 ||s1.xmcdn.com
 ||imagev2.xmcdn.com
 ||m.ximalaya.com
-!百度云盘
-||pan.baidu.com
-!阿里云盘
-||alibaba-inc.com
-||aliyundrive.com
-!夸克云盘
-||quark.cn
-!小红书
-||xiaohongshu.com
-||xhscdn.com
 !石墨
 ||shimo.im
 

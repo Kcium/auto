@@ -4000,6 +4000,7 @@ var rules = [
             "primevideo.com",
             "printfriendly.com",
             "prism-break.org",
+            "prismic.io",
             "prisoneralert.com",
             "pritunl.com",
             "privacybox.de",

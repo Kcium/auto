@@ -1260,8 +1260,6 @@ var rules = [
             "definebabe.com",
             "deja.com",
             "delcamp.net",
-            "delicious.com",
-            "democrats.org",
             "demosisto.hk",
             "deno.com",
             "deno.dev",

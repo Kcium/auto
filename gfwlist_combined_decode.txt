@@ -19,11 +19,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: +i/ctzSe3QHIiupJRlFajg
+! Checksum: bJYw9BxzdbRNG9z+wsK9/g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 14 Nov 2025 13:31:14 +0000
+! Last Modified: Mon, 17 Nov 2025 09:45:35 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1597,6 +1597,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||adguard-vpn.com
 ||aoxvpn.com
 ||asianfanfics.com
 ||amuletmc.com
@@ -3789,6 +3790,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hbomax.com
 ||hicairo.com
 ||herominers.com
 ||hinet.net
@@ -4663,6 +4665,7 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mjj.rip
 ||mcusercontent.com
 ||metamask.io
 ||missav.ws
@@ -5600,6 +5603,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||rustdesk.com
 ||rentry.co
 ||radmin-vpn.com
 ||rule34video.com

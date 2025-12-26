@@ -19,11 +19,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: m9uPhyUBS7Q1Bi13aQ1SdQ
+! Checksum: BcqFgcqsRN2TZLie5hx8Tw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 24 Dec 2025 08:18:43 +0000
+! Last Modified: Fri, 26 Dec 2025 07:03:42 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -969,7 +969,6 @@ blogspot.com
 ||chromecast.com
 ||chromeexperiments.com
 ||chromestatus.com
-||chromium.org
 ||cloudfunctions.net
 ||crbug.com
 ||creativelab5.com
@@ -4502,6 +4501,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||lovart.ai
 ||library-access.sk
 ||linux.do
 ||lmarena.ai

@@ -19,11 +19,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: p4WCEbENiNYEN4hm/6CegQ
+! Checksum: 8/R3eZ59PEjSuLPdxJoGig
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 09 Jan 2026 09:18:34 +0000
+! Last Modified: Sat, 17 Jan 2026 09:28:54 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1565,6 +1565,9 @@ taiwannation.50webs.com
 ||aljazeera.com
 ||akinator.com
 ||annas-archive.org
+||annas-archive.in
+||annas-archive.li
+||annas-archive.pm
 ||av01.tv
 ||acg.rip
 ||annas-archive.se
@@ -6594,10 +6597,11 @@ tuitwit.com
 .tv.com
 |http://tv.com
 tvants.com
-||forum.tvb.com
+||mytvsuper.com
+||tvbanywhere.com
+||akamai.tvb.com
 ||inews-api.tvb.com
-news.tvbs.com.tw
-.tvboxnow.com
+||news.tvbs.com.tw
 ||tvboxnow.com
 tvider.com
 .tvmost.com.hk

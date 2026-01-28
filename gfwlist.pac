@@ -1153,6 +1153,7 @@ var rules = [
             "creadersnet.com",
             "creativelab5.com",
             "cristyli.com",
+            "crixet.com",
             "crocotube.com",
             "crossfire.co.kr",
             "crossvpn.net",

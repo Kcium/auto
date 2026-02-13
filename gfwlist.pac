@@ -22,6 +22,7 @@ var rules = [
             "clientservices.googleapis.com",
             "fonts.googleapis.com",
             "gvt1.com",
+            "imasdk.googleapis.com",
             "safebrowsing.googleapis.com",
             "update.googleapis.com"
         ],

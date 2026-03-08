@@ -3044,6 +3044,7 @@ var rules = [
             "shenzhoufilm.com",
             "shenzhouzhengdao.org",
             "shiksha.com",
+            "shitjournal.org",
             "shixiao.org",
             "shizhao.org",
             "shodanhq.com",

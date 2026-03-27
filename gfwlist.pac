@@ -2929,7 +2929,6 @@ var rules = [
             "rixcloud.us",
             "rlwlw.com",
             "rmbl.ws",
-            "rmimg.com",
             "robustnessiskey.com",
             "rocket-inc.net",
             "rocket.chat",

@@ -3765,7 +3765,6 @@ var rules = [
             "vrsmash.com",
             "vtunnel.com",
             "vultryhw.com",
-            "vzw.com",
             "w-pool.com",
             "w3s.link",
             "waffle1999.com",

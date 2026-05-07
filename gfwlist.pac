@@ -2609,6 +2609,7 @@ var rules = [
             "openid.net",
             "openleaks.org",
             "opensea.io",
+            "openstreetmap.fr",
             "openstreetmap.org",
             "opentech.fund",
             "openvpn.net",

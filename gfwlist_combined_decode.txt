@@ -19,11 +19,11 @@
 ||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: LgtnBArNEEbkOpDuAIXXOA
+! Checksum: d6SFSgeSfqm8ltJix10jOQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 17 May 2026 09:41:29 +0000
+! Last Modified: Wed, 20 May 2026 11:47:07 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2128,7 +2128,9 @@ iipdigital.usembassy.gov
 ||futuremessage.org
 ||fw.cm
 ||fxcm-chinese.com
+||f95zone.to
 !--------------------GG-------------------------
+||g.ai
 ||gmgn.ai
 ||grokipedia.com
 ||gfwbao.com
@@ -2706,6 +2708,7 @@ iipdigital.usembassy.gov
 |http://lyfhk.net
 ||lzjscript.com
 ||lzmtnews.org
+||leonardo.ai
 !--------------------MM-------------------------
 ||mjj.today
 ||mediamatters.org
@@ -3347,6 +3350,8 @@ iipdigital.usembassy.gov
 ||rutracker.net
 ||rutracker.org
 |http://rxhj.net
+||raphael.app
+||rule34.us
 !--------------------SS-------------------------
 ||sider.ai
 ||sinchew.com.my
@@ -3585,6 +3590,7 @@ iipdigital.usembassy.gov
 ||sydneytoday.com
 ||sylfoundation.org
 ||syncback.com
+||sotwe.com
 !--------------------TT-------------------------
 ||tvdy1.com
 ||tgstat.com

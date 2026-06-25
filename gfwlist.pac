@@ -785,6 +785,7 @@ var rules = [
             "crazyshit.com",
             "crbug.com",
             "crchina.org",
+            "creader.com",
             "creaders.net",
             "creativelab5.com",
             "cristyli.com",

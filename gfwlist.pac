@@ -2659,6 +2659,7 @@ var rules = [
             "oklink.com",
             "okpool.me",
             "okx.com",
+            "oldmapsonline.org",
             "olehdtv.com",
             "olelive.com",
             "olevod.com",

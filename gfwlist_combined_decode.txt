@@ -1,22 +1,4 @@
 !自定义
-||ytysxs.com
-||gamersky.com
-||ali213.net
-||fastlink.ws
-||fastlink.la
-!印象笔记
-||yinxiang.com
-!微软
-||microsoft.com
-||bing.com
-!语雀
-||yuque.com
-!喜马拉雅
-||s1.xmcdn.com
-||imagev2.xmcdn.com
-||m.ximalaya.com
-!石墨
-||shimo.im
 
 !userRule END[AutoProxy 0.2.9]
 ! Checksum: Abh4hljOZDTpQRaeFWWQ6g

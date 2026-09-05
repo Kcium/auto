@@ -1,11 +1,11 @@
 !自定义
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: 4SjqMSrkxunr9ZI/f7zKog
+! Checksum: IPrn2pEThwjqG8zr+AziXg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 04 Sep 2026 10:44:38 +0000
+! Last Modified: Sat, 05 Sep 2026 05:29:19 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1133,6 +1133,8 @@ www.aolnews.com
 ||x.com
 
 !!---Taiwan---
+||taiwanembassy.org
+||roc-taiwan.org
 ||twgov.tw
 ||gov.tw
 @@||www.gov.tw
@@ -1204,6 +1206,8 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.me
+||123av.com
 ||18comic.vip
 ||18mh.net
 ||24hbook.com
@@ -2363,6 +2367,7 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hentai.tv
 ||hkej.com
 ||hkong.hk
 ||hive.blog
@@ -3370,6 +3375,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
 ||rts.ch
@@ -3467,6 +3473,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||supjav.com
 ||api.shuaiapi.com
 ||sb.sb
 ||sysub.com
@@ -3709,6 +3716,7 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||taiav.com
 ||tryai.dev
 ||theintercept.com
 ||trtworld.com
@@ -4161,6 +4169,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wtfpass.com
 ||write.as
 ||windy.com
 ||washingtontimes.com

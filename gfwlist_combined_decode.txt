@@ -1,11 +1,11 @@
 !自定义
 
 !userRule END[AutoProxy 0.2.9]
-! Checksum: hhiTzDLvcsGbFJKUB5aC0Q
+! Checksum: t/luIVwz4EMxR+p0xZDCSA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 11 Sep 2026 14:54:15 +0000
+! Last Modified: Mon, 21 Sep 2026 12:27:46 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1610,6 +1610,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
 ||cht.com.tw
@@ -2967,6 +2968,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||note.com
 ||nthlink.com
 ||neodb.social 
 ||nfscofficial.com
